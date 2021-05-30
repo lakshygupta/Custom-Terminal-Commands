@@ -34,6 +34,7 @@ It is used to display or make a copy content of one or more files in the termina
 
 ### Combine Multiple Commands
 ![4](https://user-images.githubusercontent.com/40179909/120108179-ad74ff80-c181-11eb-96a7-d689ad0971fd.PNG)
+#### Order of -s and -n in command query do not matter.
 ![5](https://user-images.githubusercontent.com/40179909/120108180-ad74ff80-c181-11eb-8181-2a11a023d9a9.PNG)
 
 ### Command 6
